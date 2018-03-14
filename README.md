@@ -1,4 +1,4 @@
 # Smart Dashboard
 
-Finished version. See student version for the template students must complete.
+Finished version. See student version for the template that students must complete.
 
