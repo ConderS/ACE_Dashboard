@@ -1,3 +1,5 @@
-# Smart Dashboard
+# Smart Dashboard - Final Version
 
-![final-demo-gif](https://media.giphy.com/media/pyqfXFMmEf0RnjILZu/giphy.gif)
+What the final version of the dashboard should look like:
+
+![final-demo-gif](https://media.giphy.com/media/39hp90HT8WeRWSpssH/giphy.gif)
